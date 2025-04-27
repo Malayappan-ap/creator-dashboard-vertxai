@@ -1,0 +1,1 @@
+This application collects basic user information (such as name, email, and profile data) to personalize your experience. Your information is stored securely and will never be sold or shared without your consent.
